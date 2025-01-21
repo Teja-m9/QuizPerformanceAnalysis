@@ -52,33 +52,3 @@ To install the required libraries, run:
 ```bash
 pip install pandas requests matplotlib seaborn
 
-## Cloning the Repository
-
-To clone the repository and set up the project on your local machine, follow these steps:
-
-1. Open your terminal (or command prompt).
-2. Clone the repository using the following command:
-
-   ```bash
-   git clone https://github.com/yourusername/quiz-performance-analysis.git
-
-Navigate to the project directory:
-
-```bash
-cd quiz-performance-analysis
-## Running the Script
-
-Once you've cloned the repository and installed the necessary dependencies, you can run the script to analyze the quiz performance data:
-
-1. Run the script:
-
-   ```bash
-   python analysis.py
-
-## Visualizations
-![The line chart shows performance trends over time, with fluctuations indicating periods of growth or decline. It highlights peaks and valleys, showing the best and worst performance points. The overall trend reveals whether performance is improving, declining, or remaining stable. Notable spikes or drops help identify significant changes or external factors affecting performance. Multiple lines can also compare different performance metrics or categories across the same time period.](images/Performance.png)
-
-![User Performance Over Time
-The user's performance is tracked across multiple quizzes, showing improvements in both score and accuracy over time. Initially, the user may struggle with certain quizzes, but performance gradually improves as they become more familiar with the material. Key insights reveal specific quizzes where performance dips, highlighting areas for focus. Visualizing the user's performance trend helps identify progress and stagnation points. Based on this, personalized recommendations are provided to strengthen weak areas and continue improving.](images/User_Performance.png)
-
-
