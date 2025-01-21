@@ -51,3 +51,23 @@ To install the required libraries, run:
 
 ```bash
 pip install pandas requests matplotlib seaborn
+
+Cloning the Repository
+To clone the repository and set up the project on your local machine, follow these steps:
+
+Open your terminal (or command prompt).
+Clone the repository using the following command:
+bash
+git clone https://github.com/yourusername/quiz-performance-analysis.git
+Navigate to the project directory:
+bash
+cd quiz-performance-analysis
+Running the Script
+Once you've cloned the repository and installed the necessary dependencies, you can run the script to analyze the quiz performance data:
+
+Run the script:
+bash
+python analysis.py
+Make sure you have valid API access to load the data from the URLs in the script. If you do not have access, replace the placeholders with actual API endpoints.
+
+After running the script, you will see visualizations of quiz performance trends, user-specific analysis, and insights. These will be displayed as charts and printed summaries in your terminal.
