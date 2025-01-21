@@ -76,9 +76,8 @@ Once you've cloned the repository and installed the necessary dependencies, you 
    python analysis.py
 
 ## Visualizations
-![The line chart shows performance trends over time, with fluctuations indicating periods of growth or decline. It highlights peaks and valleys, showing the best and worst performance points. The overall trend reveals whether performance is improving, declining, or remaining stable. Notable spikes or drops help identify significant changes or external factors affecting performance. Multiple lines can also compare different performance metrics or categories across the same time period.](images/Performance.png)
+![Performance Over Time](https://github.com/Teja-m9/QuizPerformanceAnalysis/blob/main/images/Performance.png#:~:text=images-,Performance,-.png)
 
-![User Performance Over Time
-The user's performance is tracked across multiple quizzes, showing improvements in both score and accuracy over time. Initially, the user may struggle with certain quizzes, but performance gradually improves as they become more familiar with the material. Key insights reveal specific quizzes where performance dips, highlighting areas for focus. Visualizing the user's performance trend helps identify progress and stagnation points. Based on this, personalized recommendations are provided to strengthen weak areas and continue improving.](images/User_Performance.png)
+![User Performance Over Time](https://github.com/Teja-m9/QuizPerformanceAnalysis/blob/main/images/User_Performance.png#:~:text=Performance.png-,User_Performance,-.png)
 
 
